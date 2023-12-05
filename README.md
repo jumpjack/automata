@@ -18,7 +18,8 @@ Studying and replicating ancient automata
 - [Von Kempelen’s Chess-Playing Pseudo-Automaton and Zu Racknitz’s Explanation of Its Controls, in 1789](https://archive.org/details/kempelens-chess-playing-pseudo-automaton), by Georg Glaeser & Ernst Strouhal
 
 
-  ![image](https://github.com/jumpjack/automata/assets/1620953/e6032f4b-cf50-4c84-a1c9-2b72f3880902)
+  ![image](https://github.com/jumpjack/automata/assets/1620953/e6032f4b-cf50-4c84-a1c9-2b72f3880902)  ![image](https://github.com/jumpjack/automata/assets/1620953/9562f852-a70f-4f01-ac88-e11024124372)
+
 
 -  [“PSYCHO” THE WHIST-PLAYING AUTOMATON](https://cyberneticzoo.com/not-quite-robots/1875-psycho-the-whist-playing-automaton-maskelyne-clarke-british/), by MASKELYNE & CLARKE , 1875  (Card playing automaton)
 
