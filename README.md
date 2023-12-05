@@ -6,7 +6,7 @@ Studying and replicating ancient automata
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/b5ba5ee6-e29e-469a-8580-7df105f992eb)  (--> [hires version](https://www.digi-hub.de/viewer/!image/BV041097321/67/))
 
-- [Ueber den Schachspieler des Herrn von Kempelen und dessen Nachbildung,  Mit sieben Kupfertafeln. Leipzig and Dresden 1789 (Reprint Dortmund 1983, ed. Mario Faber)](https://www.digi-hub.de/viewer/thumbs/BV041097321/1/)(Kempelen's Chess Playing Pseudo Automaton; German language, with full picture, by J.F. Freiherr zu Racknitzs)
+- [Ueber den Schachspieler des Herrn von Kempelen und dessen Nachbildung,  Mit sieben Kupfertafeln. Leipzig and Dresden 1789 (Reprint Dortmund 1983, ed. Mario Faber)](https://www.digi-hub.de/viewer/thumbs/BV041097321/1/)(Kempelen's Chess Playing Pseudo Automaton; German language, with [full pictures](https://www.digi-hub.de/viewer/api/v1/records/BV041097321/sections/LOG_0011/pdf/), by J.F. Freiherr zu Racknitzs)
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/a2f78a2c-fa48-43d7-b2a4-de3823f9c7f9)
 
