@@ -2,12 +2,16 @@
 Studying and replicating ancient automata
 
 
+
 ## Documents
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/b5ba5ee6-e29e-469a-8580-7df105f992eb)  (--> [hires version](https://www.digi-hub.de/viewer/!image/BV041097321/67/))
 
-- [Ueber den Schachspieler des Herrn von Kempelen und dessen Nachbildung,  Mit sieben Kupfertafeln. Leipzig and Dresden 1789 (Reprint Dortmund 1983, ed. Mario Faber)](https://www.digi-hub.de/viewer/thumbs/BV041097321/1/)(Kempelen's Chess Playing Pseudo Automaton; German language, with [full pictures](https://www.digi-hub.de/viewer/api/v1/records/BV041097321/sections/LOG_0011/pdf/), by J.F. Freiherr zu Racknitzs)
-
+- "**Ueber den Schachspieler des Herrn von Kempelen und dessen Nachbildung,  Mit sieben Kupfertafeln**"  ("*About the Chess Player of Mr. von Kempelen and Its Reproduction, With Seven Copperplates*"), by J.F. Freiherr zu Racknitzs. Leipzig and Dresden, 1789 (Reprint Dortmund 1983, ed. Mario Faber) (Kempelen's Chess Playing Pseudo Automaton; German language, with [all pictures](https://www.digi-hub.de/viewer/api/v1/records/BV041097321/sections/LOG_0011/pdf/),) 
+    - [With full hires images, non-searchable text](https://www.digi-hub.de/viewer/thumbs/BV041097321/1/)
+    - [Searchable text, missing images](https://babel.hathitrust.org/cgi/pt?id=hvd.hn5r4k&seq=57&view=thumb)
+ 
+      
 ![image](https://github.com/jumpjack/automata/assets/1620953/a2f78a2c-fa48-43d7-b2a4-de3823f9c7f9)
 
 - [Inanimate reason; or a circumstantial account of that astonishing piece of mechanism, M. de Kempelen's chess-player](https://archive.org/details/bim_eighteenth-century_briefe-uber-den-schachs_windisch-carl-gottlieb-_1784/mode/1up)  , by Carl Gottlieb von Windisch, 1784 (missing images)
