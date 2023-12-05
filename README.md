@@ -23,6 +23,11 @@ Studying and replicating ancient automata
 
 -  [“PSYCHO” THE WHIST-PLAYING AUTOMATON](https://cyberneticzoo.com/not-quite-robots/1875-psycho-the-whist-playing-automaton-maskelyne-clarke-british/), by MASKELYNE & CLARKE , 1875  (Card playing automaton)
 
+
+![image](https://github.com/jumpjack/automata/assets/1620953/ddd366c9-f5f4-4003-bab7-5fbc0d91d86d)
+
+- [Ancient and Modern Magic: With Explanations of Some of the Best Known Tricks ...](https://books.google.it/books?id=F0MCAAAAQAAJ&pg=PA58&dq=psycho+MASKELYNE&hl=it&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiejfCcofiCAxV_hP0HHcmJBQc4ChDoAXoECAQQAg#v=onepage&q&f=false) 
+
   
--  Nachricht von einer Maschine, welches das Schach spielet. In: “Kaiserlich Königliches allergnädigst privater Anzeiger aus k.k. Erbländern” (39/1773), pp. 230-232, by K.G. v. Windisch
+-  Nachricht von einer Maschine, welches das Schach spielet ("About a chess-player machine"), in: “Kaiserlich Königliches allergnädigst privater Anzeiger aus k.k. Erbländern” (39/1773), pp. 230-232, by K.G. v. Windisch  (**can't find this**)
 
