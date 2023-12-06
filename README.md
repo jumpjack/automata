@@ -14,6 +14,7 @@ Studying and replicating ancient automata
  #### The writer automaton by Maillarde
 - [The Writer Automaton](https://www.youtube.com/watch?v=OehTO9l1Hp8)
 - [Details of arm movements](https://youtu.be/zpJEP6O6-Ho?t=54)
+- [Details of shoulder](https://www.youtube.com/watch?v=Nx-aU7Lp2-4)
 
 #### The writer automaton by Pierre Jaquet-Droz
 - [Detail of shoulder](https://aahs.org.au/the-writer/)
