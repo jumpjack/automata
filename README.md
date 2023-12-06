@@ -2,12 +2,17 @@
 Studying and replicating ancient automata
 
 ### Sites
+
+#### THe turk automaton
 - [THE RECONSTRUCTION OF THE CHESS TURK IN THE Heinz Nixdorf MuseumsForum](https://www.hnf.de/en/permanent-exhibition/exhibition-areas/the-mechanization-of-information-technology/early-automatons-miracles-of-technology/the-reconstruction-of-the-hnfs-chess-turk.html#:~:text=The%20reconstruction%20of%20the%20Chess,Fromme%20to%20reconstruct%20the%20device.) (with video)
 - [Silent movie "The Chess Player"](https://www.youtube.com/watch?v=7W_kQsO6MPc), directed by Raymond Bernard , 1927
 - [The turk reconstruction video](https://www.youtube.com/watch?v=RdT4yG8wczQ)
 - [Funny Turk replica](https://www.youtube.com/watch?v=4mVtcGDpuy8)
 - [chess master automaton The Turk Hoax resurrected by rich guy](https://www.youtube.com/watch?v=lfDDcaewlZU)
+
+ #### The writer automaton
 - [The Writer Automaton](https://www.youtube.com/watch?v=OehTO9l1Hp8)
+- [Details of arm movements](https://youtu.be/zpJEP6O6-Ho?t=54)
 
 ## Documents
 
