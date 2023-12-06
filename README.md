@@ -20,7 +20,8 @@ Studying and replicating ancient automata
 - [Detail of shoulder](https://aahs.org.au/the-writer/)
 
 ### Modern attempts
-![image](https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad)
+![image](https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad)  ![image](https://github.com/jumpjack/automata/assets/1620953/ff93576e-a791-49a3-8aac-0989fc0cde44)
+
 
 [Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
 
