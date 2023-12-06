@@ -20,7 +20,8 @@ Studying and replicating ancient automata
 - [Detail of shoulder](https://aahs.org.au/the-writer/)
 
 ### Modern attempts
-![image](https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad)  ![image](https://github.com/jumpjack/automata/assets/1620953/07c786e2-ccc7-4724-8e0f-c7eb134265af)
+![image](https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad)  ![image](https://github.com/jumpjack/automata/assets/1620953/20756f67-3cdf-4525-9293-3e7bdaa76752)
+
 
 
 
