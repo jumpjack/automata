@@ -19,6 +19,10 @@ Studying and replicating ancient automata
 #### The writer automaton by Pierre Jaquet-Droz
 - [Detail of shoulder](https://aahs.org.au/the-writer/)
 
+### Modern attempts
+[Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
+
+
 ## Documents
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/b5ba5ee6-e29e-469a-8580-7df105f992eb)  (--> [hires version](https://www.digi-hub.de/viewer/!image/BV041097321/67/))
