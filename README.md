@@ -3,7 +3,10 @@ Studying and replicating ancient automata
 
 ### Sites
 
-#### THe turk automaton
+#### The turk automaton
+![image](https://github.com/jumpjack/automata/assets/1620953/6a9e4a07-4f8c-4838-b4fb-e484e664e693) 
+![image](https://github.com/jumpjack/automata/assets/1620953/8509f8f2-4437-4fd2-ae6d-a44a85a83567)  
+
 - [THE RECONSTRUCTION OF THE CHESS TURK IN THE Heinz Nixdorf MuseumsForum](https://www.hnf.de/en/permanent-exhibition/exhibition-areas/the-mechanization-of-information-technology/early-automatons-miracles-of-technology/the-reconstruction-of-the-hnfs-chess-turk.html#:~:text=The%20reconstruction%20of%20the%20Chess,Fromme%20to%20reconstruct%20the%20device.) (with video)
 - [THE RECONSTRUCTION OF THE CHESS TURK IN THE Heinz Nixdorf MuseumsForum - Dedicated page](https://www.kwabc.org/en/newsitem/the-turk-at-paderborn-visiting-an-event-on-march-25th-2004.html)
 - [Silent movie "The Chess Player"](https://www.youtube.com/watch?v=7W_kQsO6MPc), directed by Raymond Bernard , 1927
@@ -11,12 +14,16 @@ Studying and replicating ancient automata
 - [Funny Turk replica](https://www.youtube.com/watch?v=4mVtcGDpuy8)
 - [chess master automaton The Turk Hoax resurrected by rich guy](https://www.youtube.com/watch?v=lfDDcaewlZU)
 
- #### The writer automaton by Maillarde
+ #### The writer automaton by Maillardet
+![image](https://github.com/jumpjack/automata/assets/1620953/f7152245-6cc1-44c9-b359-ec7f57a6267e) ![image](https://github.com/jumpjack/automata/assets/1620953/3e2bd9e0-2cf1-44eb-bab1-a7a3bb0e0b97)
+
 - [The Writer Automaton](https://www.youtube.com/watch?v=OehTO9l1Hp8)
 - [Details of arm movements](https://youtu.be/zpJEP6O6-Ho?t=54)
 - [Details of shoulder](https://www.youtube.com/watch?v=Nx-aU7Lp2-4)
 
 #### The writer automaton by Pierre Jaquet-Droz
+![image](https://github.com/jumpjack/automata/assets/1620953/722339e9-7631-4c41-a7b4-98353989b154) ![image](https://github.com/jumpjack/automata/assets/1620953/8de5f423-776c-47fa-8dd9-50ecb0a8b4f1)
+
 - [Detail of shoulder](https://aahs.org.au/the-writer/)
 
 ### Modern attempts
