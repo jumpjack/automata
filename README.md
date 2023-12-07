@@ -37,6 +37,7 @@ Studying and replicating ancient automata
 
 ## Documents
 
+### The turk
 ![image](https://github.com/jumpjack/automata/assets/1620953/b5ba5ee6-e29e-469a-8580-7df105f992eb)  (--> [hires version](https://www.digi-hub.de/viewer/!image/BV041097321/67/))
 
 - "**Ueber den Schachspieler des Herrn von Kempelen und dessen Nachbildung,  Mit sieben Kupfertafeln**"  ("*About the Chess Player of Mr. von Kempelen and Its Reproduction, With Seven Copperplates*"), by J.F. Freiherr zu Racknitzs. Leipzig and Dresden, 1789 (Reprint Dortmund 1983, ed. Mario Faber) (Kempelen's Chess Playing Pseudo Automaton; German language, with [all pictures](https://www.digi-hub.de/viewer/api/v1/records/BV041097321/sections/LOG_0011/pdf/),) 
@@ -69,3 +70,8 @@ Studying and replicating ancient automata
 
 -  Kempelen - zwei Maschinen by Brigitte Felderer and Ernst Strouhal Sonderzahl Verlag, 2004, 28 pages (Leporello), ISBN 385449209X, Price: 29.70 Euro  ([source](https://www.kwabc.org/en/newsitem/the-turk-at-paderborn-visiting-an-event-on-march-25th-2004.html)https://www.kwabc.org/en/newsitem/the-turk-at-paderborn-visiting-an-event-on-march-25th-2004.html)
 
+### Maillardet writer
+
+- [Summary description of how Maillardet writer works](https://archive.nytimes.com/www.nytimes.com/interactive/2011/12/26/science/mechanical-memory.html)
+- [Dedicated site/blog](https://maillardetautomaton.com/)https://maillardetautomaton.com/
+  
