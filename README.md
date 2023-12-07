@@ -75,4 +75,5 @@ Studying and replicating ancient automata
 
 - [Summary description of how Maillardet writer works](https://archive.nytimes.com/www.nytimes.com/interactive/2011/12/26/science/mechanical-memory.html)
 - [Dedicated site/blog](https://maillardetautomaton.com/)https://maillardetautomaton.com/
+- [The official Maillardet automaton report (restoration)](https://www.popyrus.com/hugo/automaton_report.pdf)https://www.popyrus.com/hugo/automaton_report.pdf  (PDF) (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc.) 
   
