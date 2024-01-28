@@ -22,6 +22,7 @@ Studying and replicating ancient automata
 - [Details of arm movements](https://youtu.be/zpJEP6O6-Ho?t=54)
 - [Details of shoulder](https://www.youtube.com/watch?v=Nx-aU7Lp2-4)
 - [Modern paper with details about the mechanism](https://waseda.repo.nii.ac.jp/record/65267/files/Honbun-8739.pdf), by Takuto Takahashi
+  
   ![image](https://github.com/jumpjack/automata/assets/1620953/a0cc37d1-7e10-44ca-84e6-405b86fe725c)
 
 
