@@ -39,6 +39,7 @@ Studying and replicating ancient automata
     - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
     - [Link 2](https://www.youtube.com/watch?v=WDRi230FLBc)
 - **François Junod** writer automaton
+   - [Official site](http://www.francoisjunod.com/)
    - Automaton n.2 (1997) - [Link 1](https://www.youtube.com/watch?v=2TELJIK96j8)
    - Automaton n.3 (no link)
    - Automaton n.4 - [Link 1](https://www.youtube.com/watch?v=-vQg0jtfHw0)
