@@ -38,9 +38,13 @@ Studying and replicating ancient automata
 - Writer automaton by **Stephen Foster**
     - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
     - [Link 2](https://www.youtube.com/watch?v=WDRi230FLBc)
-- **François Junod**
+- **François Junod** writer automaton
+   - Automaton n.2 (1997) - [Link 1](https://www.youtube.com/watch?v=2TELJIK96j8)
+   - Automaton n.3 (no link)
+   - Automaton n.4 - [Link 1](https://www.youtube.com/watch?v=-vQg0jtfHw0)
+   - Automaton n.5 (no link)
    - Automaton n.6 - [Link 1](https://www.youtube.com/watch?v=Y30MmDqYBAw)
-   - Automaton n.7, Automaton "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism)
+   - Automaton n.7 (2006), "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism)
 
 ## Documents
 
