@@ -34,11 +34,13 @@ Studying and replicating ancient automata
 ### Modern attempts
 ![image](https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad)  ![image](https://github.com/jumpjack/automata/assets/1620953/20756f67-3cdf-4525-9293-3e7bdaa76752)
 
-
-
-
-[Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
-
+- [Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
+- Writer automaton by **Stephen Foster**
+    - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
+    - [Link 2](https://www.youtube.com/watch?v=WDRi230FLBc)
+- Automaton "Alexandre Pouchkine",  by **François Junod**
+    -  [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (highr res video of detailed mechanism)
+    -  
 
 ## Documents
 
