@@ -45,7 +45,7 @@ Studying and replicating ancient automata
    - Automaton n.4 - [Link 1](https://www.youtube.com/watch?v=-vQg0jtfHw0)
    - Automaton n.5 (no link)
    - Automaton n.6 - [Link 1](https://www.youtube.com/watch?v=Y30MmDqYBAw)
-   - Automaton n.7 (2006), "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism)
+   - Automaton n.7 (2006), "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism), [Link 2](https://www.youtube.com/watch?v=FQM9JzHbCdw)
 
 ## Documents
 
