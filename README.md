@@ -31,21 +31,7 @@ Studying and replicating ancient automata
 
 - [Detail of shoulder](https://aahs.org.au/the-writer/)
 
-### Modern attempts
-![image](https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad)  ![image](https://github.com/jumpjack/automata/assets/1620953/20756f67-3cdf-4525-9293-3e7bdaa76752)
 
-- [Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
-- Writer automaton by **Stephen Foster**
-    - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
-    - [Link 2](https://www.youtube.com/watch?v=WDRi230FLBc)
-- **François Junod** writer automaton
-   - [Official site](http://www.francoisjunod.com/)
-   - Automaton n.2 (1997) - [Link 1](https://www.youtube.com/watch?v=2TELJIK96j8)
-   - Automaton n.3 (no link)
-   - Automaton n.4 - [Link 1](https://www.youtube.com/watch?v=-vQg0jtfHw0)
-   - Automaton n.5 (no link)
-   - Automaton n.6 - [Link 1](https://www.youtube.com/watch?v=Y30MmDqYBAw)
-   - Automaton n.7 (2006), "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism), [Link 2](https://www.youtube.com/watch?v=FQM9JzHbCdw)
 
 ## Documents
 
@@ -86,11 +72,25 @@ Studying and replicating ancient automata
 
 - [Summary description of how Maillardet writer works](https://archive.nytimes.com/www.nytimes.com/interactive/2011/12/26/science/mechanical-memory.html)
 - [Dedicated site/blog](https://maillardetautomaton.com/)
-- [The official Maillardet automaton report (restoration)](https://www.popyrus.com/hugo/automaton_report.pdf)  (PDF) (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc.)
 - [3d scan attempt](youtube.com/watch?v=idA7FkgzWnU) (only video, not model)
 - [Closeup front view](https://www.youtube.com/watch?v=7ZiH7oF3OMM)https://www.youtube.com/watch?v=7ZiH7oF3OMM
 - [Detailed images of the mechanisms (reverse engineering attempt)](http://www.frantone.com/designwritings/design_writings9.html)http://www.frantone.com/designwritings/design_writings9.html
-- Restoration report (2007):
+- Restoration report  (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc., 2007):
     - [Site](https://www.popyrus.com/hugo/report.html)
     - [PDF](https://www.popyrus.com/hugo/automaton_report.pdf)
     - [Images](https://www.popyrus.com/hugo/reportimages.html)
+- Possible modern replicas?
+  
+<img src="https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad" width=300> <img src="https://github.com/jumpjack/automata/assets/1620953/20756f67-3cdf-4525-9293-3e7bdaa76752" width = 300>
+    - [Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
+    - Writer automaton by **Stephen Foster**
+        - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
+        - [Link 2](https://www.youtube.com/watch?v=WDRi230FLBc)
+    - **François Junod** writer automaton
+       - [Official site](http://www.francoisjunod.com/)
+       - Automaton n.2 (1997) - [Link 1](https://www.youtube.com/watch?v=2TELJIK96j8)
+       - Automaton n.3 (no link)
+       - Automaton n.4 - [Link 1](https://www.youtube.com/watch?v=-vQg0jtfHw0)
+       - Automaton n.5 (no link)
+       - Automaton n.6 - [Link 1](https://www.youtube.com/watch?v=Y30MmDqYBAw)
+       - Automaton n.7 (2006), "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism), [Link 2](https://www.youtube.com/watch?v=FQM9JzHbCdw)
