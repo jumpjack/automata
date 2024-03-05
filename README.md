@@ -79,19 +79,21 @@ Studying and replicating ancient automata
     - [Site](https://www.popyrus.com/hugo/report.html)
     - [PDF](https://www.popyrus.com/hugo/automaton_report.pdf)
     - [Images](https://www.popyrus.com/hugo/reportimages.html)
-- Possible modern replicas?
-  
+
+ ---------
+      
 <img src="https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad" width=300> <img src="https://github.com/jumpjack/automata/assets/1620953/20756f67-3cdf-4525-9293-3e7bdaa76752" width = 300>
 
-    - [Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
-    - Writer automaton by **Stephen Foster**
-        - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
-        - [Link 2](https://www.youtube.com/watch?v=WDRi230FLBc)
-    - **François Junod** writer automaton
-       - [Official site](http://www.francoisjunod.com/)
-       - Automaton n.2 (1997) - [Link 1](https://www.youtube.com/watch?v=2TELJIK96j8)
-       - Automaton n.3 (no link)
-       - Automaton n.4 - [Link 1](https://www.youtube.com/watch?v=-vQg0jtfHw0)
-       - Automaton n.5 (no link)
-       - Automaton n.6 - [Link 1](https://www.youtube.com/watch?v=Y30MmDqYBAw)
-       - Automaton n.7 (2006), "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism), [Link 2](https://www.youtube.com/watch?v=FQM9JzHbCdw)
+### Possible modern replicas of Maillardet automaton
+- [Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
+- Writer automaton by **Stephen Foster**
+    - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
+    - [Link 2](https://www.youtube.com/watch?v=WDRi230FLBc)
+- **François Junod** writer automaton
+    - [Official site](http://www.francoisjunod.com/)
+    - Automaton n.2 (1997) - [Link 1](https://www.youtube.com/watch?v=2TELJIK96j8)
+    - Automaton n.3 (no link)
+    - Automaton n.4 - [Link 1](https://www.youtube.com/watch?v=-vQg0jtfHw0)
+    - Automaton n.5 (no link)
+    - Automaton n.6 - [Link 1](https://www.youtube.com/watch?v=Y30MmDqYBAw)
+    - Automaton n.7 (2006), "Alexandre Pouchkine" - [Link 1](https://www.youtube.com/watch?v=ivIHcHwR6b0) (high res video of detailed mechanism), [Link 2](https://www.youtube.com/watch?v=FQM9JzHbCdw)
