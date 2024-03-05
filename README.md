@@ -82,6 +82,7 @@ Studying and replicating ancient automata
 - Possible modern replicas?
   
 <img src="https://github.com/jumpjack/automata/assets/1620953/411085e3-68b4-4e30-aac4-c9ba2ae13fad" width=300> <img src="https://github.com/jumpjack/automata/assets/1620953/20756f67-3cdf-4525-9293-3e7bdaa76752" width = 300>
+
     - [Programmable Drawing Automata based on Cam Mechanisms for Representing Spatial Trajectory](https://www.youtube.com/watch?v=7BnBH7b16rk)
     - Writer automaton by **Stephen Foster**
         - [Link 1](https://www.youtube.com/watch?v=8-rjznqllSY)
