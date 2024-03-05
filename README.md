@@ -80,11 +80,12 @@ Studying and replicating ancient automata
   
 -  Nachricht von einer Maschine, welches das Schach spielet ("About a chess-player machine"), in: “Kaiserlich Königliches allergnädigst privater Anzeiger aus k.k. Erbländern” (39/1773), pp. 230-232, by K.G. v. Windisch  (**can't find this**)
 
--  Kempelen - zwei Maschinen by Brigitte Felderer and Ernst Strouhal Sonderzahl Verlag, 2004, 28 pages (Leporello), ISBN 385449209X, Price: 29.70 Euro  ([source](https://www.kwabc.org/en/newsitem/the-turk-at-paderborn-visiting-an-event-on-march-25th-2004.html)https://www.kwabc.org/en/newsitem/the-turk-at-paderborn-visiting-an-event-on-march-25th-2004.html)
+-  Kempelen - zwei Maschinen by Brigitte Felderer and Ernst Strouhal Sonderzahl Verlag, 2004, 28 pages (Leporello), ISBN 385449209X, Price: 29.70 Euro  ([source](https://www.kwabc.org/en/newsitem/the-turk-at-paderborn-visiting-an-event-on-march-25th-2004.html))
 
 ### Maillardet writer
 
 - [Summary description of how Maillardet writer works](https://archive.nytimes.com/www.nytimes.com/interactive/2011/12/26/science/mechanical-memory.html)
-- [Dedicated site/blog](https://maillardetautomaton.com/)https://maillardetautomaton.com/
-- [The official Maillardet automaton report (restoration)](https://www.popyrus.com/hugo/automaton_report.pdf)https://www.popyrus.com/hugo/automaton_report.pdf  (PDF) (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc.) 
+- [Dedicated site/blog](https://maillardetautomaton.com/)
+- [The official Maillardet automaton report (restoration)](https://www.popyrus.com/hugo/automaton_report.pdf)  (PDF) (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc.)
+- [3d scan attempt](youtube.com/watch?v=idA7FkgzWnU) (only video, not model)
   
