@@ -93,4 +93,4 @@ Studying and replicating ancient automata
 - Restoration report (2007):
     - [Site](https://www.popyrus.com/hugo/report.html)
     - [PDF](https://www.popyrus.com/hugo/automaton_report.pdf)
-    - [Images](https://www.popyrus.com/hugo/reportimages.html)https://www.popyrus.com/hugo/reportimages.html
+    - [Images](https://www.popyrus.com/hugo/reportimages.html)
