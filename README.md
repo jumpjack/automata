@@ -89,4 +89,4 @@ Studying and replicating ancient automata
 - [The official Maillardet automaton report (restoration)](https://www.popyrus.com/hugo/automaton_report.pdf)  (PDF) (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc.)
 - [3d scan attempt](youtube.com/watch?v=idA7FkgzWnU) (only video, not model)
 - [Closeup front view](https://www.youtube.com/watch?v=7ZiH7oF3OMM)https://www.youtube.com/watch?v=7ZiH7oF3OMM
-  
+- [Detailed images of the mechanisms (reverse engineering attempt)](http://www.frantone.com/designwritings/design_writings9.html)http://www.frantone.com/designwritings/design_writings9.html
