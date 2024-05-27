@@ -63,5 +63,25 @@ Index for the amazing work of antikythera_man on Instagram:
 - [5/3/2024: Output leverage for X axis ready](https://www.instagram.com/p/C4IeN0woDss/?locale=it_IT)
 - [6/3/2024: Mumbling about follower cradle mechanism](https://www.instagram.com/p/C4L880WI5X1/?locale=it_IT)
 - [8/3/2024: Some design issues led to unintened collisions/interference between pieces](https://www.instagram.com/p/C4RFd-bIUi4/?locale=it_IT&img_index=2) (it happened dozens of times to me while creating my simple automata....)
-- 
+- [12/3/2024: Cams & follower completed](https://www.instagram.com/p/C4a7E2SopYa/?locale=it_IT)
+
+## The Big Wheel
+
+- [14/3/2023: Beginning the Big Wheel with 42 slots](https://www.instagram.com/p/C4gvP7kIERh/?locale=it_IT&img_index=1); each slot is 3x11 mm.
+- [15/3/2024: Wheel completed](https://www.instagram.com/p/C4i2MuLIZVl/?locale=it_IT&img_index=3)
+- [18/3/2024: Adding parts to the wheel](https://www.instagram.com/p/C4qUSgWouru/?locale=it_IT&img_index=1)
+- [20/3/2024: Holes and nuts in the wheel](https://www.instagram.com/p/C4wD_sDoXwF/?locale=it_IT&img_index=1)
+- [23/3/204: Quick overall video](https://www.instagram.com/p/C43mxkDIha5/?locale=it_IT)
+- [25/3/2024: Adding wheel to the wheel](https://www.instagram.com/p/C48X3zZIZXR/?locale=it_IT)
+- [26/3/2024: Wheel spin test](https://www.instagram.com/p/C4_TkJpIw0k/?locale=it_IT) (video)
+- [1/1/2024: Followers lifting chain](https://www.instagram.com/p/C5OIx_5osM6/?locale=it_IT&img_index=1)
+- [2/2/2024: Overview of everything dismounted (video)](https://www.instagram.com/p/C5Qs9nwoYFS/?locale=it_IT)
+- [2/2/2024: Testing lifting mechanism (video)](https://www.instagram.com/p/C5RIGBZIOCu/?locale=it_IT)3
+
+## The leverage for the lifter
+- [5/4/2024: Firt piece: the holder](https://www.instagram.com/p/C5Y2DaboKSV/?locale=it_IT)
+- [7/4/2024: The character selector arm joined to the holder](https://www.instagram.com/p/C5dSjZSoWgu/?locale=it_IT&img_index=9)
+- [9/4/2024: Connecting the leverage to the lifter chain (video)](https://www.instagram.com/p/C5jQiQyI1uw/?locale=it_IT)
+- [16/4/2024: Fixing an issue in the lifing mechanism: interference with the box (video)](https://www.instagram.com/p/C51CVs7Ifi1/?locale=it_IT)
+- [17/4/2024: First test character tile fitted to the program wheel, and it only blimmin well lifts the cam follower cradle exactly as it's supposed to (video)](https://www.instagram.com/p/C53yiScoG4S/?locale=it_IT)
 - 
