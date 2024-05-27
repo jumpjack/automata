@@ -1,4 +1,9 @@
-Index for the amazing work of antikythera_man on Instagram:
+![image](https://github.com/jumpjack/automata/assets/1620953/55d5a113-0358-4a8f-abcb-38efac2be25b)
+
+![image](https://github.com/jumpjack/automata/assets/1620953/e4730980-0176-4da8-a8c2-d8a7106f3797)
+
+
+Index for the amazing work of antikythera_man on Instagram at building a replica of Jacquet Droz automaton:
 
 ## Start
 
@@ -92,7 +97,14 @@ Index for the amazing work of antikythera_man on Instagram:
 - [30/4/2024: Cat damage (video)](https://www.instagram.com/p/C6Y45NlowEE/?locale=it_IT)
 - [30/4/2024: Fixing the cat damage (video)](https://www.instagram.com/p/C6ZPkgroTue/?locale=it_IT)
 - [1/5/2024: Cam stack ready again](https://www.instagram.com/p/C6bS_Rpo4J-/?locale=it_IT)
+
+  ## New wheel
+  
 - [2/5/2024: New  wheel (video) ](https://www.instagram.com/p/C6d1QnfoJUZ/?locale=it_IT)
 - [4/5/2024: Details on the new wheel](https://www.instagram.com/p/C6jaAEOohc7/?locale=it_IT&img_index=1)
 - [12/5/2024: Further fixing of cat damage](https://www.instagram.com/p/C64EQF0I8RN/?locale=it_IT&img_index=1)
-- [13/5/2024: The new whell stacked onto the cam stack](https://www.instagram.com/p/C66gZdioA6J/?locale=it_IT)
+- [13/5/2024: The new whell stacked onto the cam stack (video)](https://www.instagram.com/p/C66gZdioA6J/?locale=it_IT)
+- [14/5/2024: Again about the wheel (video)](https://www.instagram.com/p/C69slFKIyvP/?locale=it_IT)
+- [15/5/2024: Dismantled again (video)](https://www.instagram.com/p/C6_CECUIUy-/?locale=it_IT)
+- [20/5/2024: Some new leverages](https://www.instagram.com/p/C7Mq1igonvz/?locale=it_IT)
+
