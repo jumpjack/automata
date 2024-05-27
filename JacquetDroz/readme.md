@@ -1,17 +1,20 @@
 Index for the amazing work of antikythera_man on Instagram:
 
-# Start
+## Start
 
 - [18/10/2023: announce](https://www.instagram.com/p/CyjXV6WohiQ/?locale=it_IT)
 - [19/10/2023: Second announce](https://www.instagram.com/p/CykyfHmowH0/?locale=it_IT&img_index=1)
 
-## Cams
+## Cam recording arm
 
 - [20/10/2023: Studying cams](https://www.instagram.com/p/CykyfHmowH0/?locale=it_IT&img_index=1)
 - [28/10/2023: First prototype of cam recording arm - X-Y-Z axes working, only X recording (video)](https://www.instagram.com/p/Cy9OetbIwXb/?locale=it_IT)
 - [31/10/2023: Cam recording arm: X-Y recording implemented (video)](https://www.instagram.com/p/Cy9OetbIwXb/?locale=it_IT)
 - [8/11/2023: Recording arm (pictures)](https://www.instagram.com/p/CzY4IAmIjZy/?locale=it_IT&img_index=1)
 - [9/11/2023: Recording arm ready to draw first cams, for letter W (pictures)](https://www.instagram.com/p/CzcAW7GIjQL/?locale=it_IT&img_index=1)
+
+## Cams
+
 - [10/11/2023: Arm drawing/recording letter W (video)](https://www.instagram.com/p/CzeJ6NRIjyl/?locale=it_IT&img_index=1)
 - [10/11/2023: The 3 cams for letter W](https://www.instagram.com/p/CzexBvXoTmF/?locale=it_IT&img_index=1)
 - [11/11/2023: Small update on progress](https://www.instagram.com/p/Czg9PFBIHJD/?locale=it_IT)
@@ -40,5 +43,11 @@ Index for the amazing work of antikythera_man on Instagram:
 - [12/1/2024: All cams finished. They are actually 204, no more 207, because "zero" and "O" are the same](https://www.instagram.com/p/C2BBfzpoXqL/?locale=it_IT&img_index=1)
 - [17/1/2024: What remains after cutting 204 cams](https://www.instagram.com/p/C2N_WDdI5B0/?locale=it_IT&img_index=4)
 - [19/1/2024: 206 spacer cams ready (cams cannot touch one the other, else followers would not know which cam to follow)](https://www.instagram.com/p/C2S96x-oHRB/?locale=it_IT&img_index=4)
+
+## Mechanism
+
 - [21/1/2021: First component: a wheel](https://www.instagram.com/p/C2XfNCXo2ji/?locale=it_IT)
+- [23/1/2024: Full cam stack ready, with spacers and driver wheel](https://www.instagram.com/p/C2dEy9YI15P/?locale=it_IT&img_index=4)
+- [24/1/2024: Cam stack fun video](https://www.instagram.com/p/C2exXQRIt-e/?locale=it_IT)
+- [26/1/2024: Planning](https://www.instagram.com/p/C2jxW0NI2HG/?locale=it_IT)
 - 
