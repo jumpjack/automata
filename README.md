@@ -72,7 +72,7 @@ Studying and replicating ancient automata
 
 - [Summary description of how Maillardet writer works](https://archive.nytimes.com/www.nytimes.com/interactive/2011/12/26/science/mechanical-memory.html)
 - [Dedicated site/blog](https://maillardetautomaton.com/)
-- [3d scan attempt](youtube.com/watch?v=idA7FkgzWnU) (only video, not model)
+- [3d scan attempt](https://youtube.com/watch?v=idA7FkgzWnU) (only video, not model)
 - [Closeup front view](https://www.youtube.com/watch?v=7ZiH7oF3OMM)https://www.youtube.com/watch?v=7ZiH7oF3OMM
 - [Detailed images of the mechanisms (reverse engineering attempt)](http://www.frantone.com/designwritings/design_writings9.html)http://www.frantone.com/designwritings/design_writings9.html
 - Restoration report  (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc., 2007):
