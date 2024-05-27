@@ -50,4 +50,18 @@ Index for the amazing work of antikythera_man on Instagram:
 - [23/1/2024: Full cam stack ready, with spacers and driver wheel](https://www.instagram.com/p/C2dEy9YI15P/?locale=it_IT&img_index=4)
 - [24/1/2024: Cam stack fun video](https://www.instagram.com/p/C2exXQRIt-e/?locale=it_IT)
 - [26/1/2024: Planning](https://www.instagram.com/p/C2jxW0NI2HG/?locale=it_IT)
+- [29/1/2024: Cam stack holder](https://www.instagram.com/p/C2sr8kyLEpg/?locale=it_IT&img_index=3)
+- [1/2/2024: Cam box (pictures + video)](https://www.instagram.com/p/C20aYmDIJbr/?locale=it_IT)
+- [2/2/2024: The cam-stack supporting bearing](https://www.instagram.com/p/C22Fgs7Iko6/?locale=it_IT&img_index=3)
+- [9/2/20024: The follower](https://www.instagram.com/p/C3JN5yPIgGb/?locale=it_IT)
+- [9/2/2024: Followers and followers drivers](https://www.instagram.com/p/C3JN5yPIgGb/?locale=it_IT)
+- [12/2/2024: Cam follower cradle test (video)](https://www.instagram.com/p/C3QfWpkIfw4/?locale=it_IT&img_index=3). Change w.r.t. original automaton: Jacquet Droz made the cam stack slide, here we have the follower cradle slide; this is to make things "easier", because cam stack weights 4.5 kg; but I think it will actually make things a lot more complex!
+- [16/2/2024: First issue deriving from making the followers move rather than the cams...](https://www.instagram.com/p/C3Z5gyooOSb/?locale=it_IT)
+- [19/2/2024: Holes in the side of cam box](https://www.instagram.com/p/C3hqSm4I-C2/?locale=it_IT&img_index=2)
+- [22/2/2024: The Mess On The Table :-)](https://www.instagram.com/p/C3qJmyXoYwj/?locale=it_IT)
+- [26/2/2024: Transfer linkage between the moving cam follower and the fixed output lever (video)](https://www.instagram.com/p/C30BehAIKwu/?locale=it_IT)
+- [5/3/2024: Output leverage for X axis ready](https://www.instagram.com/p/C4IeN0woDss/?locale=it_IT)
+- [6/3/2024: Mumbling about follower cradle mechanism](https://www.instagram.com/p/C4L880WI5X1/?locale=it_IT)
+- [8/3/2024: Some design issues led to unintened collisions/interference between pieces](https://www.instagram.com/p/C4RFd-bIUi4/?locale=it_IT&img_index=2) (it happened dozens of times to me while creating my simple automata....)
+- 
 - 
