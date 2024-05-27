@@ -21,6 +21,7 @@ Studying and replicating ancient automata
 - [The Writer Automaton](https://www.youtube.com/watch?v=OehTO9l1Hp8)
 - [Details of arm movements](https://youtu.be/zpJEP6O6-Ho?t=54)
 - [Details of shoulder](https://www.youtube.com/watch?v=Nx-aU7Lp2-4)
+- [Site & book  on automaton (MAillardet too): Figures in the 4th dimension](http://www.figuresinthefourthdimension.com/html/Automata-clockwork.html)
 - [Modern paper with details about the mechanism](https://waseda.repo.nii.ac.jp/record/65267/files/Honbun-8739.pdf), by Takuto Takahashi
   
   ![image](https://github.com/jumpjack/automata/assets/1620953/a0cc37d1-7e10-44ca-84e6-405b86fe725c)
