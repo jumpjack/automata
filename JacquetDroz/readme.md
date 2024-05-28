@@ -49,7 +49,9 @@ Index for the amazing work of antikythera_man on Instagram at building a replica
 - [17/1/2024: What remains after cutting 204 cams](https://www.instagram.com/p/C2N_WDdI5B0/?locale=it_IT&img_index=4)
 - [19/1/2024: 206 spacer cams ready (cams cannot touch one the other, else followers would not know which cam to follow)](https://www.instagram.com/p/C2S96x-oHRB/?locale=it_IT&img_index=4)
 
-## Mechanism
+## The cam stack
+
+![image](https://github.com/jumpjack/automata/assets/1620953/72845671-dca4-46bb-9f78-a95f574ec976)
 
 - [21/1/2021: First component: a wheel](https://www.instagram.com/p/C2XfNCXo2ji/?locale=it_IT)
 - [23/1/2024: Full cam stack ready, with spacers and driver wheel](https://www.instagram.com/p/C2dEy9YI15P/?locale=it_IT&img_index=4)
@@ -58,6 +60,12 @@ Index for the amazing work of antikythera_man on Instagram at building a replica
 - [29/1/2024: Cam stack holder](https://www.instagram.com/p/C2sr8kyLEpg/?locale=it_IT&img_index=3)
 - [1/2/2024: Cam box (pictures + video)](https://www.instagram.com/p/C20aYmDIJbr/?locale=it_IT)
 - [2/2/2024: The cam-stack supporting bearing](https://www.instagram.com/p/C22Fgs7Iko6/?locale=it_IT&img_index=3)
+
+
+## The followers
+
+![image](https://github.com/jumpjack/automata/assets/1620953/bd4d580d-c5bc-4119-be2c-a64fd2d1fbc2)
+
 - [9/2/20024: The follower](https://www.instagram.com/p/C3JN5yPIgGb/?locale=it_IT)
 - [9/2/2024: Followers and followers drivers](https://www.instagram.com/p/C3JN5yPIgGb/?locale=it_IT)
 - [12/2/2024: Cam follower cradle test (video)](https://www.instagram.com/p/C3QfWpkIfw4/?locale=it_IT&img_index=3). Change w.r.t. original automaton: Jacquet Droz made the cam stack slide, here we have the follower cradle slide; this is to make things "easier", because cam stack weights 4.5 kg; but I think it will actually make things a lot more complex!
@@ -70,7 +78,10 @@ Index for the amazing work of antikythera_man on Instagram at building a replica
 - [8/3/2024: Some design issues led to unintened collisions/interference between pieces](https://www.instagram.com/p/C4RFd-bIUi4/?locale=it_IT&img_index=2) (it happened dozens of times to me while creating my simple automata....)
 - [12/3/2024: Cams & follower completed](https://www.instagram.com/p/C4a7E2SopYa/?locale=it_IT)
 
-## The Big Wheel
+
+## The program wheel
+
+![image](https://github.com/jumpjack/automata/assets/1620953/314d46ba-1cb5-4dce-b6c4-76f0a78cbaf4)
 
 - [14/3/2023: Beginning the Big Wheel with 42 slots](https://www.instagram.com/p/C4gvP7kIERh/?locale=it_IT&img_index=1); each slot is 3x11 mm.
 - [15/3/2024: Wheel completed](https://www.instagram.com/p/C4i2MuLIZVl/?locale=it_IT&img_index=3)
@@ -81,10 +92,10 @@ Index for the amazing work of antikythera_man on Instagram at building a replica
 - [26/3/2024: Wheel spin test](https://www.instagram.com/p/C4_TkJpIw0k/?locale=it_IT) (video)
 - [1/1/2024: Followers lifting chain](https://www.instagram.com/p/C5OIx_5osM6/?locale=it_IT&img_index=1)
 - [2/2/2024: Overview of everything dismounted (video)](https://www.instagram.com/p/C5Qs9nwoYFS/?locale=it_IT)
-- [2/2/2024: Testing lifting mechanism (video)](https://www.instagram.com/p/C5RIGBZIOCu/?locale=it_IT)3
+- [2/2/2024: Testing lifting mechanism (video)](https://www.instagram.com/p/C5RIGBZIOCu/?locale=it_IT)
 
 ## The leverage for the lifter
-- [5/4/2024: Firt piece: the holder](https://www.instagram.com/p/C5Y2DaboKSV/?locale=it_IT)
+- [5/4/2024: First piece: the holder](https://www.instagram.com/p/C5Y2DaboKSV/?locale=it_IT)
 - [7/4/2024: The character selector arm joined to the holder](https://www.instagram.com/p/C5dSjZSoWgu/?locale=it_IT&img_index=9)
 - [9/4/2024: Connecting the leverage to the lifter chain (video)](https://www.instagram.com/p/C5jQiQyI1uw/?locale=it_IT)
 - [16/4/2024: Fixing an issue in the lifing mechanism: interference with the box (video)](https://www.instagram.com/p/C51CVs7Ifi1/?locale=it_IT)
