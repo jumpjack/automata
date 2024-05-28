@@ -21,7 +21,7 @@ Studying and replicating ancient automata
 - [The Writer Automaton](https://www.youtube.com/watch?v=OehTO9l1Hp8)
 - [Details of arm movements](https://youtu.be/zpJEP6O6-Ho?t=54)
 - [Details of shoulder](https://www.youtube.com/watch?v=Nx-aU7Lp2-4)
-- [Site & book  on automaton (MAillardet too): Figures in the 4th dimension](http://www.figuresinthefourthdimension.com/html/Automata-clockwork.html)
+- [Site & book  on automaton (Maillardet too): Figures in the 4th dimension](http://www.figuresinthefourthdimension.com/html/Automata-clockwork.html)
 - [Modern paper with details about the mechanism](https://waseda.repo.nii.ac.jp/record/65267/files/Honbun-8739.pdf), by Takuto Takahashi
   
   ![image](https://github.com/jumpjack/automata/assets/1620953/a0cc37d1-7e10-44ca-84e6-405b86fe725c)
@@ -74,8 +74,9 @@ Studying and replicating ancient automata
 - [Summary description of how Maillardet writer works](https://archive.nytimes.com/www.nytimes.com/interactive/2011/12/26/science/mechanical-memory.html)
 - [Dedicated site/blog](https://maillardetautomaton.com/)
 - [3d scan attempt](https://youtube.com/watch?v=idA7FkgzWnU) (only video, not model)
-- [Closeup front view](https://www.youtube.com/watch?v=7ZiH7oF3OMM)https://www.youtube.com/watch?v=7ZiH7oF3OMM
-- [Detailed images of the mechanisms (reverse engineering attempt)](http://www.frantone.com/designwritings/design_writings9.html)http://www.frantone.com/designwritings/design_writings9.html
+- [Closeup front view](https://www.youtube.com/watch?v=7ZiH7oF3OMM)
+- [Detailed images of the mechanisms (reverse engineering attempt)](http://www.frantone.com/designwritings/design_writings9.html)
+- Maillarder automaton is widely analyzed in detail in many pages in  [Figures in the 4th dimension](http://www.figuresinthefourthdimension.com/html/Automata-clockwork.html) book
 - Restoration report  (ANDREW BARON, MECHANICIAN, Popyrus Studio, Inc., 2007):
     - [Site](https://www.popyrus.com/hugo/report.html)
     - [PDF](https://www.popyrus.com/hugo/automaton_report.pdf)
