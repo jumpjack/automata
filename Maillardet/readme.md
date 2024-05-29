@@ -27,15 +27,16 @@ The shoulder actuator for Y:
 
 The elbow:
 
-![image](https://github.com/jumpjack/automata/assets/1620953/a37ea47f-0c27-4ae6-85f6-0c413acd666c) ![image](https://github.com/jumpjack/automata/assets/1620953/d659f424-6405-446b-bb2b-db46c70a1791) ![image](https://github.com/jumpjack/automata/assets/1620953/7f4afea8-7688-4578-902f-922888d50f4c) ![image](https://github.com/jumpjack/automata/assets/1620953/8acc92fd-7ea3-4148-8ec0-fc5923e5d878)
-
-
+![image](https://github.com/jumpjack/automata/assets/1620953/a37ea47f-0c27-4ae6-85f6-0c413acd666c) ![image](https://github.com/jumpjack/automata/assets/1620953/7f4afea8-7688-4578-902f-922888d50f4c) 
 
 
 The forearm elevator:
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/d5e2a0d1-37a3-448f-8643-8ef36e9d6c99)
 
+ ![image](https://github.com/jumpjack/automata/assets/1620953/d659f424-6405-446b-bb2b-db46c70a1791) 
+
+ ![image](https://github.com/jumpjack/automata/assets/1620953/8acc92fd-7ea3-4148-8ec0-fc5923e5d878)
 
 Cams/followers schematic
 
@@ -43,7 +44,8 @@ Cams/followers schematic
 
 ([source](http://www.figuresinthefourthdimension.com/img/Automata-clockwork/ACl-Maill-tech-drawing-small.jpg))
 
-Cams photo
+
+Cams photo:
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/1fa5b384-cdee-4cae-888c-60d7f4450db0)
 ([source](http://www.figuresinthefourthdimension.com/document/Figures-In-the-Fourth-Dimension-sample.pdf))
