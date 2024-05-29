@@ -16,8 +16,13 @@ The shoulder actuator for X:
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/eba5f59f-d59a-426d-ba1e-b08770ae7b6b)
 
+![image](https://github.com/jumpjack/automata/assets/1620953/6872b942-2127-4bdd-b416-07d77c106dcd)
+
+
 
 The shoulder actuator for Y:
+
+![image](https://github.com/jumpjack/automata/assets/1620953/4d6feea3-25a5-45a8-9c0f-dc94a353186c)
 
 
 The elbow:
@@ -49,4 +54,4 @@ The book can be purchased here: http://www.figuresinthefourthdimension.com/html/
 ## Videos
 
 - [Maillardet Automaton: More To Be Done](https://www.youtube.com/watch?v=Nx-aU7Lp2-4)
-- 
+- [Fare meraviglie: il disegnatore-scrittore](https://www.youtube.com/watch?v=7ZiH7oF3OMM)
