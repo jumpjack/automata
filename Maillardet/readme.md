@@ -63,3 +63,5 @@ The book can be purchased here: http://www.figuresinthefourthdimension.com/html/
 
 - [Maillardet Automaton: More To Be Done](https://www.youtube.com/watch?v=Nx-aU7Lp2-4)
 - [Fare meraviglie: il disegnatore-scrittore](https://www.youtube.com/watch?v=7ZiH7oF3OMM)
+- [The exact moment of cam-stack shift (00:24:39)](https://youtu.be/Tv5U_fEvrMA?t=1479)
+- [Demonstration of the Seven Renderings of the Maillardet Automaton](https://www.youtube.com/watch?v=Tv5U_fEvrMA) (high detail on elbow)
