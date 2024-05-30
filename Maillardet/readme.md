@@ -39,6 +39,10 @@ The forearm elevator:
 
  ![image](https://github.com/jumpjack/automata/assets/1620953/8acc92fd-7ea3-4148-8ec0-fc5923e5d878)
 
+![image](https://github.com/jumpjack/automata/assets/1620953/26cd1dfd-4ffe-4526-9695-0e427d3c9877)
+
+ 
+
  Upper joint between horizontal and vertical elevator ([source](http://www.frantone.com/designwritings/design_writings9.html)):
 
  ![image](https://github.com/jumpjack/automata/assets/1620953/0b58dc3b-2c25-402b-bec8-7ee8e931b56e)
