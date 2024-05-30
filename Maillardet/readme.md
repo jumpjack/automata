@@ -37,6 +37,8 @@ The forearm elevator:
 
  ![image](https://github.com/jumpjack/automata/assets/1620953/d659f424-6405-446b-bb2b-db46c70a1791) 
 
+ ([source](https://youtu.be/7ZiH7oF3OMM?t=47))
+
  ![image](https://github.com/jumpjack/automata/assets/1620953/8acc92fd-7ea3-4148-8ec0-fc5923e5d878)
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/26cd1dfd-4ffe-4526-9695-0e427d3c9877)
