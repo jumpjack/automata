@@ -3,7 +3,7 @@
 ![image](https://github.com/jumpjack/automata/assets/1620953/e4730980-0176-4da8-a8c2-d8a7106f3797)
 
 
-Index for the amazing work of antikythera_man on Instagram at building a replica of Jacquet Droz automaton:
+Index for the amazing work of [antikythera_man on Instagram](https://www.instagram.com/antikythera_man/) at building a replica of Jacquet Droz automaton:
 
 ## Start
 
