@@ -95,9 +95,10 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [2/2/2024: Testing lifting mechanism (video)](https://www.instagram.com/p/C5RIGBZIOCu/?locale=it_IT)
 
 ## The leverage for the lifter
-- [5/4/2024: First piece: the holder](https://www.instagram.com/p/C5Y2DaboKSV/?locale=it_IT)
-- [7/4/2024: The character selector arm joined to the holder](https://www.instagram.com/p/C5dSjZSoWgu/?locale=it_IT&img_index=9)
-- [9/4/2024: Connecting the leverage to the lifter chain (video)](https://www.instagram.com/p/C5jQiQyI1uw/?locale=it_IT)
+
+- [5/4/2024: First piece: the holder](https://www.instagram.com/p/C5Y2DaboKSV/)
+- [7/4/2024: The character selector arm joined to the holder](https://www.instagram.com/p/C5dSjZSoWgu/?img_index=9)
+- [9/4/2024: Connecting the leverage to the lifter chain (video)](https://www.instagram.com/p/C5jQiQyI1uw/)
 - [16/4/2024: Fixing an issue in the lifing mechanism: interference with the box (video)](https://www.instagram.com/p/C51CVs7Ifi1/?locale=it_IT)
 - [17/4/2024: First test character tile fitted to the program wheel, and it only blimmin well lifts the cam follower cradle exactly as it's supposed to (video)](https://www.instagram.com/p/C53yiScoG4S/?locale=it_IT)
 - [18/4/2024: A plate with many holes](https://www.instagram.com/p/C55nHGsIVG_/?locale=it_IT)
@@ -109,6 +110,7 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [30/4/2024: Fixing the cat damage (video)](https://www.instagram.com/p/C6ZPkgroTue/?locale=it_IT)
 - [1/5/2024: Cam stack ready again](https://www.instagram.com/p/C6bS_Rpo4J-/?locale=it_IT)
 
+
   ## New wheel
   
 - [2/5/2024: New  wheel (video) ](https://www.instagram.com/p/C6d1QnfoJUZ/?locale=it_IT)
@@ -119,19 +121,24 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [15/5/2024: Dismantled again (video)](https://www.instagram.com/p/C6_CECUIUy-/?locale=it_IT)
 - [20/5/2024: Some new leverages](https://www.instagram.com/p/C7Mq1igonvz/?locale=it_IT)
 
+
 ## Dis-engagement mechanism
+
 - [27/5/2024: dis-engagement mechanism](https://www.instagram.com/p/C7fI3IBoF9V/) (video)
 - [29/5/2024: dis-engagement mechanism](https://www.instagram.com/p/C7jFCSgoC2o) (pictures)
 - [29/5/2024: Major mistake in dis-engagement system](https://www.instagram.com/p/C7jmU1zo8Ro/) (video): it should move clockwise, it moves CCW.
 - [31/5/2024: Mechanism fixed: now it moves clockwise](https://www.instagram.com/p/C7oUbIPoy60/)
 
+
 ## New components
+
 - [31/5/2024](https://www.instagram.com/p/C7on9aKIXlw):  Begin of work
 - [3/6/2024: runners for the new counterweight](https://www.instagram.com/p/C7wh0inovS1) (video)
 - [4/6/2024: counterweights ready](https://www.instagram.com/p/C7wh0inovS1)
 - [5/6/2024: something...](https://www.instagram.com/p/C71w8aOIxmH)
 
 ## Notch in the cams
+
 - [6/6/2024: Notch in the cams](https://www.instagram.com/p/C73jD-SoUYB) (video)
 - [6/6/2024: Detail of the cams notch](https://www.instagram.com/p/C74vlRaILW3) (video)
 - [7/6/2024: Notch completed](https://www.instagram.com/p/C77V7m6IyDy/) (video)
