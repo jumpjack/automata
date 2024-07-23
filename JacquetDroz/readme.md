@@ -146,12 +146,28 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [10/6/2024: Cams completed](https://www.instagram.com/p/C8ClEWRIL6f)
 - [13/6/2024: A minor mistake leads to major disassembly...](https://www.instagram.com/reel/C8KgxZfIkan/)
 - [14/6/2024: Assembled again (video)](https://www.instagram.com/reel/C8Nen58oPG9/)
+
+## Spring return mechanism for cam followers
+
 - [19/6/2024: Spring return system for the first of the cam followers (video)](https://www.instagram.com/reel/C8Nen58oPG9/)
-- [21/6/2024: Slight re-design needed for follower spring retuirn mmchanism, due to excess friction](https://www.instagram.com/reel/C8eTi6QoRBN/)
+- [21/6/2024: Slight re-design needed for follower spring return mmchanism, due to excess friction](https://www.instagram.com/reel/C8eTi6QoRBN/)
 - [22/6/2024: Messy workshop picture](https://www.instagram.com/p/C8hdInHoeP2/)
 - [26/6/2024: Spring return mechanism fixed and completed (video)](https://www.instagram.com/reel/C8sXXDzoSiw/)
+
+## New program wheel sensing lever
+
 - [1/7/2024: New design for "program wheel sensing lever" (video)](https://www.instagram.com/reel/C85O8D_IkBe/)
+
+## Index bar
+
 - [2/7/2024: Disassembly to make the "indexing bar"](https://www.instagram.com/reel/C86i9HhI6Bs/)
-- 2/7/2024:
-- 3/7/2024:
+- [2/7/2024: Beginning of index bar (video)](https://www.instagram.com/reel/C872qQwIATE/)
+- [3/7/2024: Working at index bar](https://www.instagram.com/reel/C8-Wjg6oJZQ/)
+- [4/7/2024: Index bar finished (video)](https://www.instagram.com/reel/C9ANWevommX/)
+- [10/7/2024: Misterious leverage (video)](https://www.instagram.com/reel/C9P8jauotiz/)
+- [15/7/2024: Index bar mounted (video)](https://www.instagram.com/reel/C9dVdkwIuP3/)
+
+
+- [17/7/2024: Timelapse video of reassembling](https://www.instagram.com/reel/C9h91YRoJ4L/)
+- [18/7/2024: Too much clearance of sensig arm? (video)](https://www.instagram.com/reel/C9kQ2YjoP1E/)
 - 
