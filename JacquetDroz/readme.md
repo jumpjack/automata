@@ -166,8 +166,11 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [4/7/2024: Index bar finished (video)](https://www.instagram.com/reel/C9ANWevommX/)
 - [10/7/2024: Misterious leverage (video)](https://www.instagram.com/reel/C9P8jauotiz/)
 - [15/7/2024: Index bar mounted (video)](https://www.instagram.com/reel/C9dVdkwIuP3/)
-
-
 - [17/7/2024: Timelapse video of reassembling](https://www.instagram.com/reel/C9h91YRoJ4L/)
+
+  # New sensing arm
 - [18/7/2024: Too much clearance of sensig arm? (video)](https://www.instagram.com/reel/C9kQ2YjoP1E/)
+- [21/7/2024: New sensing arm (video)](https://www.instagram.com/reel/C9rp5M-IRD5/)
+- [22/7/2024: Miscellany pictures](https://www.instagram.com/reel/C9uIzvfonea/)
+- [22/7/2024: Testing new sensing arm and index bar (video)](https://www.instagram.com/reel/C9u5000o4zX/)
 - 
