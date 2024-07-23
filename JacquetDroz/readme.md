@@ -144,3 +144,14 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [7/6/2024: Notch completed](https://www.instagram.com/p/C77V7m6IyDy/) (video)
 - [8/6/2024: Cams polishing](https://www.instagram.com/p/C78xvxkopOa)
 - [10/6/2024: Cams completed](https://www.instagram.com/p/C8ClEWRIL6f)
+- [13/6/2024: A minor mistake leads to major disassembly...](https://www.instagram.com/reel/C8KgxZfIkan/)
+- [14/6/2024: Assembled again (video)](https://www.instagram.com/reel/C8Nen58oPG9/)
+- [19/6/2024: Spring return system for the first of the cam followers (video)](https://www.instagram.com/reel/C8Nen58oPG9/)
+- [21/6/2024: Slight re-design needed for follower spring retuirn mmchanism, due to excess friction](https://www.instagram.com/reel/C8eTi6QoRBN/)
+- [22/6/2024: Messy workshop picture](https://www.instagram.com/p/C8hdInHoeP2/)
+- [26/6/2024: Spring return mechanism fixed and completed (video)](https://www.instagram.com/reel/C8sXXDzoSiw/)
+- 1/7/2024:
+- 2/7/2024:
+- 2/7/2024:
+- 3/7/2024:
+- 
