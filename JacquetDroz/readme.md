@@ -150,8 +150,8 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [21/6/2024: Slight re-design needed for follower spring retuirn mmchanism, due to excess friction](https://www.instagram.com/reel/C8eTi6QoRBN/)
 - [22/6/2024: Messy workshop picture](https://www.instagram.com/p/C8hdInHoeP2/)
 - [26/6/2024: Spring return mechanism fixed and completed (video)](https://www.instagram.com/reel/C8sXXDzoSiw/)
-- 1/7/2024:
-- 2/7/2024:
+- [1/7/2024: New design for "program wheel sensing lever" (video)](https://www.instagram.com/reel/C85O8D_IkBe/)
+- [2/7/2024: Disassembly to make the "indexing bar"](https://www.instagram.com/reel/C86i9HhI6Bs/)
 - 2/7/2024:
 - 3/7/2024:
 - 
