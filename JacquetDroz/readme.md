@@ -223,5 +223,18 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 
 # Program wheel
 - [19/11/2024: Figuring out how to put together the piece of mechanisms for program wheel](https://www.instagram.com/antikythera_man/reel/DCj0CvCIb4K/)
-- 
+- [20/11/2024: ](https://www.instagram.com/antikythera_man/reel/DCmPaq7I5z7/)
+- [20/11/2024: Taking apart to fit new parts](https://www.instagram.com/antikythera_man/reel/DCmPaq7I5z7/) (video)
+- [27/11/2024: Bearing brackets to transfer power to the bottom part of the box](https://www.instagram.com/antikythera_man/reel/DCm5ZY9IFjL/) (video)
+- [27/11/2024: Manually testing combined motions of camstack and program wheel](https://www.instagram.com/antikythera_man/reel/DC4Kkt0orGJ/) (video)
+- [27/11/2024: Shwoing the geneva wheel mechanism moving the program wheel](https://www.instagram.com/antikythera_man/reel/DC4aCYPIb7q/) (video)
+- [5/12/2024: Program wheel drive, completed](https://www.instagram.com/antikythera_man/reel/DDMzWUPolx8/) (video)
+- [6/12/2024: Overview picture](https://www.instagram.com/antikythera_man/p/DDPGYHQIqai/)
+
+# The writing arm
+
+- [2/1/2025: Temporary wooden arm in position](https://www.instagram.com/antikythera_man/reel/DEUk5IbImvx/) (video)
+- [3/1/2025: Vertical pivot](https://www.instagram.com/antikythera_man/reel/DEW-kRCIGrC/)
+- [13/1/2025: Forearm, and 3 DOF: left/right (x), up/down (y), in/out (z); not actuated yet](https://www.instagram.com/antikythera_man/reel/DEx4CujIasq/)
+- [21/1/2025: Actuatore test for x axis; the follower ](https://www.instagram.com/antikythera_man/reel/DFFir11Ntq0/) (video)
 - 
