@@ -266,7 +266,9 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [3/4/2025: Fully assembled mechanism, autonomously operating in sync (but manually activated)](https://www.instagram.com/antikythera_man/reel/DH_wTp4tVw_/) (video)
 - [9/4/2025: Showing movements of arm, manually actuated](https://www.instagram.com/antikythera_man/reel/DIPUr6aNl4w/) (video)
 - [21/4/2025: Cam selection mechanism failure due to followers friction on cams](https://www.instagram.com/antikythera_man/p/DIuVcBOtzvT/)
+
+## System to tension and untension the springs of cam followers
 - [24/4/2025: Studying a system to tension and untension the springs of cam followers](https://www.instagram.com/antikythera_man/reel/DI0yLxltjMI/) (video)
 - [16/5/2025: Trying to figure out the puzzle of designing and fitting a cam actuated device to operate the new system to tension and then release cam follower springs](https://www.instagram.com/antikythera_man/reel/DJtl_EON3kN/) (video)
 - [20/5/2025: testing automatic cam follower spring tension mechanism](https://www.instagram.com/antikythera_man/reel/DJ4TOhIiEhC/) (video)
-- 
+
