@@ -206,5 +206,22 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [20/9/2024: Counterweight](https://www.instagram.com/antikythera_man/p/DAJZf7Pocsg/)
 - [23/9/2024: Giving up with counterweight, switching to motors](https://www.instagram.com/antikythera_man/reel/DARFT3toyX4/)
 - [11/10/2024: Found the cause of malfunctioning counterwight mechanism: too much friction; announcing need for a governor to slow down counterweight fall](https://www.instagram.com/antikythera_man/reel/DA_cRKsIX3u/) (long video)
+
+  # Governor/brake
+  
+- [16/10/2024: Experimenting with governors: rotary air brake](https://www.instagram.com/antikythera_man/reel/DBL-6MooO8b/) ( video)
+- [28/10/2024: Experimenting with the governor](https://www.instagram.com/antikythera_man/reel/DBrwvZFoJQE/)
+- [30/10/2024: Picture of final governor](https://www.instagram.com/antikythera_man/p/DBw-uFZIaoi/)
+- [1/11/2024: Hunting for defects in governor/counterweight mechanism](https://www.instagram.com/antikythera_man/reel/DB1wMInoISV/) (video)
+
+# Geneva mechanism
+
+- [14/11/2024: Setting up a Geneva mechanism](https://www.instagram.com/antikythera_man/p/DCWTUecI7Ul/)
+- [14/11/2024: Cutting gears](https://www.instagram.com/antikythera_man/reel/DCXZtLBownW/) (slideshow)
+- [15/11/2024: Geneva wheel completed](https://www.instagram.com/antikythera_man/reel/DCZlu7UOUq3/) (video)
+
+
+# Program wheel
+- [19/11/2024: Figuring out how to put together the piece of mechanisms for program wheel](https://www.instagram.com/antikythera_man/reel/DCj0CvCIb4K/)
 - 
 - 
