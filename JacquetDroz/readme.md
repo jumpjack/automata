@@ -195,8 +195,16 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [17/8/2024: Electric motor activating two intermittent mechanisms](https://www.instagram.com/antikythera_man/reel/C-vyqF9oK4r/) (video)
 - [21/8/2024: Fixing issues in intermittent mechanisms](https://www.instagram.com/antikythera_man/reel/C-7gxhEoaNg/) (video)
 
-# Big plate
+# Mounting and connecting the intermittent mechanisms
 
 - [21/8/2024: Sawing big plate](https://www.instagram.com/antikythera_man/reel/C-8CRRwoxHN/)
+- [21/8/2024: Setting up a case for the wheels](https://www.instagram.com/antikythera_man/reel/C-8js4loCjv/) (video)
+- [1/9/2024: Intermittent mechanisms connected to motor and driveshaft and fixed to the plate](https://www.instagram.com/antikythera_man/reel/C_X9ULRIonS/) (video)
+- [2/9/2024: ...of course the mechanism has glithces](https://www.instagram.com/antikythera_man/reel/C_aMdUnIlh4/)
+- [16/9/2024: Mumbling about too much weight of the mechanisms](https://www.instagram.com/antikythera_man/reel/C__F1veIe1B/) (video)
+- [18/9/2024: Drilling dozens of holes to reduce weicht](https://www.instagram.com/antikythera_man/reel/DAEni_Koj42/) (video)
+- [20/9/2024: Counterweight](https://www.instagram.com/antikythera_man/p/DAJZf7Pocsg/)
+- [23/9/2024: Giving up with counterweight, switching to motors](https://www.instagram.com/antikythera_man/reel/DARFT3toyX4/)
+- [11/10/2024: Found the cause of malfunctioning counterwight mechanism: too much friction; announcing need for a governor to slow down counterweight fall](https://www.instagram.com/antikythera_man/reel/DA_cRKsIX3u/) (long video)
 - 
 - 
