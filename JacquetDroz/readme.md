@@ -79,7 +79,7 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [12/3/2024: Cams & follower completed](https://www.instagram.com/p/C4a7E2SopYa/?locale=it_IT)
 
 
-## The program wheel
+## Program wheel
 
 ![image](https://github.com/jumpjack/automata/assets/1620953/314d46ba-1cb5-4dce-b6c4-76f0a78cbaf4)
 
@@ -168,14 +168,14 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [15/7/2024: Index bar mounted (video)](https://www.instagram.com/reel/C9dVdkwIuP3/)
 - [17/7/2024: Timelapse video of reassembling](https://www.instagram.com/reel/C9h91YRoJ4L/)
 
-  # New sensing arm
+## New sensing arm
 - [18/7/2024: Too much clearance of sensig arm? (video)](https://www.instagram.com/reel/C9kQ2YjoP1E/)
 - [21/7/2024: New sensing arm (video)](https://www.instagram.com/reel/C9rp5M-IRD5/)
 - [22/7/2024: Miscellany pictures](https://www.instagram.com/reel/C9uIzvfonea/)
 - [22/7/2024: Testing new sensing arm and index bar (video)](https://www.instagram.com/reel/C9u5000o4zX/)
 
 
-# Wheels
+## Wheels
 - [23/7/2024: Two new wheels](https://www.instagram.com/antikythera_man/p/C9xTaRKIaVb/)
 - [23/7/2024: Intermittent motion](https://www.instagram.com/antikythera_man/reel/C9xgomzIJw0/) (video)
 - [25/7/2004: Adding an electric motor](https://www.instagram.com/antikythera_man/reel/C918PEOog5r/)
@@ -195,7 +195,7 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [17/8/2024: Electric motor activating two intermittent mechanisms](https://www.instagram.com/antikythera_man/reel/C-vyqF9oK4r/) (video)
 - [21/8/2024: Fixing issues in intermittent mechanisms](https://www.instagram.com/antikythera_man/reel/C-7gxhEoaNg/) (video)
 
-# Mounting and connecting the intermittent mechanisms
+## Mounting and connecting the intermittent mechanisms
 
 - [21/8/2024: Sawing big plate](https://www.instagram.com/antikythera_man/reel/C-8CRRwoxHN/)
 - [21/8/2024: Setting up a case for the wheels](https://www.instagram.com/antikythera_man/reel/C-8js4loCjv/) (video)
@@ -207,21 +207,21 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [23/9/2024: Giving up with counterweight, switching to motors](https://www.instagram.com/antikythera_man/reel/DARFT3toyX4/)
 - [11/10/2024: Found the cause of malfunctioning counterwight mechanism: too much friction; announcing need for a governor to slow down counterweight fall](https://www.instagram.com/antikythera_man/reel/DA_cRKsIX3u/) (long video)
 
-  # Governor/brake
+## Governor/brake
   
 - [16/10/2024: Experimenting with governors: rotary air brake](https://www.instagram.com/antikythera_man/reel/DBL-6MooO8b/) ( video)
 - [28/10/2024: Experimenting with the governor](https://www.instagram.com/antikythera_man/reel/DBrwvZFoJQE/)
 - [30/10/2024: Picture of final governor](https://www.instagram.com/antikythera_man/p/DBw-uFZIaoi/)
 - [1/11/2024: Hunting for defects in governor/counterweight mechanism](https://www.instagram.com/antikythera_man/reel/DB1wMInoISV/) (video)
 
-# Geneva mechanism
+## Geneva mechanism
 
 - [14/11/2024: Setting up a Geneva mechanism](https://www.instagram.com/antikythera_man/p/DCWTUecI7Ul/)
 - [14/11/2024: Cutting gears](https://www.instagram.com/antikythera_man/reel/DCXZtLBownW/) (slideshow)
 - [15/11/2024: Geneva wheel completed](https://www.instagram.com/antikythera_man/reel/DCZlu7UOUq3/) (video)
 
 
-# Program wheel
+## Program wheel
 - [19/11/2024: Figuring out how to put together the piece of mechanisms for program wheel](https://www.instagram.com/antikythera_man/reel/DCj0CvCIb4K/)
 - [20/11/2024: ](https://www.instagram.com/antikythera_man/reel/DCmPaq7I5z7/)
 - [20/11/2024: Taking apart to fit new parts](https://www.instagram.com/antikythera_man/reel/DCmPaq7I5z7/) (video)
@@ -231,10 +231,22 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [5/12/2024: Program wheel drive, completed](https://www.instagram.com/antikythera_man/reel/DDMzWUPolx8/) (video)
 - [6/12/2024: Overview picture](https://www.instagram.com/antikythera_man/p/DDPGYHQIqai/)
 
-# The writing arm
+## Writing arm
 
 - [2/1/2025: Temporary wooden arm in position](https://www.instagram.com/antikythera_man/reel/DEUk5IbImvx/) (video)
 - [3/1/2025: Vertical pivot](https://www.instagram.com/antikythera_man/reel/DEW-kRCIGrC/)
 - [13/1/2025: Forearm, and 3 DOF: left/right (x), up/down (y), in/out (z); not actuated yet](https://www.instagram.com/antikythera_man/reel/DEx4CujIasq/)
 - [21/1/2025: Actuatore test for x axis; the follower ](https://www.instagram.com/antikythera_man/reel/DFFir11Ntq0/) (video)
+- [19/2/2025: Redesigned and finished linkage mechanism for arm, and draft hand]8https://www.instagram.com/antikythera_man/reel/DGRPey5Nu-H/) (video)
+- [20/2/2025: Completed hand](https://www.instagram.com/antikythera_man/reel/DGTApc7NCjz/)
+- [21/2/2025: Making of the hand](https://www.instagram.com/antikythera_man/p/DGWjmDptMGK/) (slideshow)
+- [27/2/2025: Drilling slideshow](https://www.instagram.com/antikythera_man/p/DGlb3DON7zc)
+- [11/3/2025: Catches, guides, ramps, and linkage design](https://www.instagram.com/antikythera_man/p/DHENx1uNvHF) (slideshow)
+- [13/3/2025: Catches, guides, and linkages, part two](https://www.instagram.com/antikythera_man/reel/DHJUj6ntdT8/) (video)
+- [14/3/2025: New cam/follower mechanism](https://www.instagram.com/antikythera_man/reel/DHLfLIFNb-S/) (video)
+- [14/3/2025: Cam ready]8https://www.instagram.com/antikythera_man/reel/DHLzcS-tdgQ/) (video)
+- [17/3/2025: Finished mechanism to hold and release the counterweight, cycling for each letter](https://www.instagram.com/antikythera_man/reel/DHLzcS-tdgQ/) (video)
+- [18/3/2025: Short break to clenaup the mess...](https://www.instagram.com/antikythera_man/p/DHV1Q1mCLvp)
+- [18/3/2025:  overview of most of the drive and timing mechanisms for the machine](https://www.instagram.com/antikythera_man/reel/DHWhdwmCVcn/) (video)
+- [19/3/2025: Fixing, tuning, adjusting,...](https://www.instagram.com/antikythera_man/reel/DHY2UKFNXTz/) (video)
 - 
