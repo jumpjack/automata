@@ -241,12 +241,25 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [20/2/2025: Completed hand](https://www.instagram.com/antikythera_man/reel/DGTApc7NCjz/)
 - [21/2/2025: Making of the hand](https://www.instagram.com/antikythera_man/p/DGWjmDptMGK/) (slideshow)
 - [27/2/2025: Drilling slideshow](https://www.instagram.com/antikythera_man/p/DGlb3DON7zc)
+
+## Driving mechanism for counterwights
+
 - [11/3/2025: Catches, guides, ramps, and linkage design](https://www.instagram.com/antikythera_man/p/DHENx1uNvHF) (slideshow)
 - [13/3/2025: Catches, guides, and linkages, part two](https://www.instagram.com/antikythera_man/reel/DHJUj6ntdT8/) (video)
 - [14/3/2025: New cam/follower mechanism](https://www.instagram.com/antikythera_man/reel/DHLfLIFNb-S/) (video)
-- [14/3/2025: Cam ready]8https://www.instagram.com/antikythera_man/reel/DHLzcS-tdgQ/) (video)
+- [14/3/2025: Cam ready](https://www.instagram.com/antikythera_man/reel/DHLzcS-tdgQ/) (video)
 - [17/3/2025: Finished mechanism to hold and release the counterweight, cycling for each letter](https://www.instagram.com/antikythera_man/reel/DHLzcS-tdgQ/) (video)
 - [18/3/2025: Short break to clenaup the mess...](https://www.instagram.com/antikythera_man/p/DHV1Q1mCLvp)
 - [18/3/2025:  overview of most of the drive and timing mechanisms for the machine](https://www.instagram.com/antikythera_man/reel/DHWhdwmCVcn/) (video)
+
+## Bugs hunting
 - [19/3/2025: Fixing, tuning, adjusting,...](https://www.instagram.com/antikythera_man/reel/DHY2UKFNXTz/) (video)
+- [23/3/2025: Timelapse of whole machine reassembly](https://www.instagram.com/antikythera_man/reel/DHjb_TWN5bG/)
+- [25/3/2025: Overall preliminary test manual/automatic](https://www.instagram.com/antikythera_man/reel/DHmXzubtBYT/) (video)
+- [30/3/2025: Attempting to fix wrong driving of camstack](https://www.instagram.com/antikythera_man/reel/DH1oAwwN8b0/) (video)
+- [31/3/2025: New cam stack parking system](https://www.instagram.com/antikythera_man/p/DH4SwPdN_yx) (slideshow)
+- [1/4/2025: Trial and error to fix camstack rotation mechanism](https://www.instagram.com/antikythera_man/reel/DH5smtDtXC1/) (video)
+- [1/4/2025: Still trying fixing camstack rotation mechanism](https://www.instagram.com/antikythera_man/reel/DH6dVgjIbYR/) (video)
+- [3/4/2025: Fully assembled mechanism, autonomously operating in sync (but manually activated)](https://www.instagram.com/antikythera_man/reel/DH_wTp4tVw_/) (video)
+- [9/4/2025: Showing movements of arm, manually actuated](https://www.instagram.com/antikythera_man/reel/DIPUr6aNl4w/) (video)
 - 
