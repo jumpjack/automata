@@ -173,4 +173,30 @@ Index for the amazing work of [antikythera_man on Instagram](https://www.instagr
 - [21/7/2024: New sensing arm (video)](https://www.instagram.com/reel/C9rp5M-IRD5/)
 - [22/7/2024: Miscellany pictures](https://www.instagram.com/reel/C9uIzvfonea/)
 - [22/7/2024: Testing new sensing arm and index bar (video)](https://www.instagram.com/reel/C9u5000o4zX/)
+
+
+# Wheels
+- [23/7/2024: Two new wheels](https://www.instagram.com/antikythera_man/p/C9xTaRKIaVb/)
+- [23/7/2024: Intermittent motion](https://www.instagram.com/antikythera_man/reel/C9xgomzIJw0/) (video)
+- [25/7/2004: Adding an electric motor](https://www.instagram.com/antikythera_man/reel/C918PEOog5r/)
+- [27/7/2024: New wheels arrived](https://www.instagram.com/antikythera_man/p/C97w-MHI1yz/)
+- [30/7/204: Studying/designing a new mnechanism](https://www.instagram.com/antikythera_man/reel/C-DUOnfIzTm/
+- [2/8/2024: New wheels cut](https://www.instagram.com/antikythera_man/p/C-K9eP-oCnk/)
+- [2/8/2024: Big wheel cut](https://www.instagram.com/antikythera_man/p/C-LPv8ZIdL8/)
+- [3/8/2024: Big 200 tooth wheel complted](https://www.instagram.com/antikythera_man/reel/C-NLQ7bob2u/) (video)
+- [3/8/2024: New small wheel to be cut](https://www.instagram.com/antikythera_man/reel/C-NuwbxoZe_/)
+- [5/8/2024: Photo-report of small wheel cutting](https://www.instagram.com/antikythera_man/p/C-SmrFxoLj3)
+- [8/8/2024: Overview of sevral wheels completed](https://www.instagram.com/antikythera_man/reel/C-aADcyoZZP/) (video)
+- [8/8/2024: Mutilated gear pair that will eventually drive the cam stack, and aother pair that will drive the program wheel advance via a Geneva Wheel](https://www.instagram.com/antikythera_man/reel/C-aeLW3oSyO/) (video)
+- [9/8/2024: Making of one half of the locking disc system for the mutilated gears](https://www.instagram.com/antikythera_man/reel/C-chx-OoT1J/)
+- [9/8/2024: Mutilated gears finished](https://www.instagram.com/antikythera_man/reel/C-dL4hzoSnx/) (video)
+- [10/8/2024: Testing mutilated gears](https://www.instagram.com/antikythera_man/reel/C-f-4VroHAC/) (video)
+- [14/8/2024: Electric motor connected to mutilated gears]8https://www.instagram.com/antikythera_man/reel/C-qFXJ9IeoI/) (video)
+- [17/8/2024: Electric motor activating two intermittent mechanisms](https://www.instagram.com/antikythera_man/reel/C-vyqF9oK4r/) (video)
+- [21/8/2024: Fixing issues in intermittent mechanisms](https://www.instagram.com/antikythera_man/reel/C-7gxhEoaNg/) (video)
+
+# Big plate
+
+- [21/8/2024: Sawing big plate](https://www.instagram.com/antikythera_man/reel/C-8CRRwoxHN/)
+- 
 - 
