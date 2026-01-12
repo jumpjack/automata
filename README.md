@@ -1,6 +1,8 @@
 # automata
 Studying and replicating ancient automata
 
+### Resources
+My free online/offline [cam-follower designer](https://jumpjack.github.io/CamFollowerJS/) ([source](https://github.com/jumpjack/CamFollowerJS)):  
 
 ### Sites
 
