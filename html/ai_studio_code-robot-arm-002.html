@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Robot Plotter - Final Studio Pro</title>
+    <script src="https://cdn.babylonjs.com/babylon.js"></script>
+    <style>
+        body { margin: 0; overflow: hidden; font-family: 'Segoe UI', sans-serif; background: #1a1a1b; color: #eee; }
+        canvas { width: 100vw; height: 100vh; touch-action: none; outline: none; }
+        #ui {
+            position: absolute; top: 10px; left: 10px; width: 300px; max-height: 95vh; overflow-y: auto;
+            background: rgba(30,30,30,0.96); padding: 15px; border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.8); z-index: 10; border: 1px solid #444;
+        }
+        .section { margin-bottom: 15px; border-bottom: 1px solid #444; padding-bottom: 10px; }
+        label { display: block; font-weight: bold; font-size: 10px; color: #aaa; text-transform: uppercase; margin-bottom: 5px; }
+        .val { float: right; font-family: monospace; color: #ff9f43; }
+        button { width: 100%; padding: 8px; margin-top: 5px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 11px; }
+        .btn-group { display: flex; gap: 5px; margin-top: 5px; }
+        .btn-group button { flex: 1; }
+        #status-box { padding: 10px; border-radius: 6px; text-align: center; font-weight: bold; margin-top: 5px; font-size: 12px; }
+        .writing-active { background: #27ae60; color: white; }
+        .writing-inactive { background: #333; color: #888; border: 1px solid #555; }
+        #logSlider { width: 100%; margin-top: 10px; accent-color: #ff9f43; }
+        kbd { background: #444; color: #fff; padding: 2px 4px; border-radius: 3px; font-size: 10px; }
+        .danger { background: #c0392b !important; color: white !important; }
+        .warning { background: #f39c12 !important; color: white !important; }
+    </style>
+</head>
+<body>
+
+<div id="ui">
+    <div class="section">
+        <label>Altezza Spalla <span id="hVal" class="val">6.0</span></label>
+        <input type="range" id="shoulderSlider" min="4" max="11" step="0.1" value="6">
+    </div>
+
+    <div class="section">
+        <label>Modalità (Tasto <kbd>SPACE</kbd>)</label>
+        <div id="status-box" class="writing-inactive">TELECAMERA LIBERA</div>
+    </div>
+
+    <div class="section">
+        <label>Timeline & Riproduzione</label>
+        <div class="btn-group">
+            <button id="btnPlay" disabled style="background:#2ecc71; color:white">PLAY</button>
+            <button id="btnPause" disabled style="background:#f1c40f; color:white">PAUSA</button>
+            <button id="btnRewind" disabled style="background:#95a5a6; color:white">REW</button>
+        </div>
+        <input type="range" id="logSlider" min="0" value="0" disabled>
+        <div style="font-size:9px; color:#888; text-align:center; margin-top:3px;">Frame: <span id="frameVal">0</span> / <span id="totalFrames">0</span></div>
+        <div class="btn-group">
+            <button id="btnLoad">CARICA JSON</button>
+            <button id="btnClearLog" class="danger">CANCELLA LOG</button>
+        </div>
+        <input type="file" id="fileInput" style="display:none" accept=".json">
+    </div>
+
+    <div class="section">
+        <label>Immagine Guida</label>
+        <button id="btnImg" style="background: #3498db; color:white">CARICA IMMAGINE</button>
+        <button id="btnImgEdit" style="background: #9b59b6; color:white">MODIFICA POSIZIONE</button>
+        <input type="file" id="imgInput" style="display:none" accept="image/*">
+    </div>
+
+    <div class="section">
+        <label>Azioni Foglio</label>
+        <button id="btnClearDrawing" class="warning">PULISCI FOGLIO (Disegno)</button>
+        <button id="btnSave" style="background:#27ae60; color:white; margin-top:10px;">SCARICA REGISTRAZIONE</button>
+    </div>
+</div>
+
+<canvas id="renderCanvas"></canvas>
+
+<script>
+const canvas = document.getElementById("renderCanvas");
+const engine = new BABYLON.Engine(canvas, true);
+canvas.addEventListener("wheel", e => e.preventDefault(), { passive: false });
+
+// Globali
+let scene, camera, hand, targetPos, guidePlane, gizmoManager;
+let shoulderHeight = 6.0;
+let writingMode = false;
+let isMouseDown = false;
+let playing = false;
+let paused = false;
+let playbackIndex = 0;
+let logData = [];
+let playbackIsDrawing = false;
+let currentStroke = [];
+let allLines = [];
+
+const L1 = 5.0, L2 = 5.0, CONE_H = 1.0;
+
+const createScene = () => {
+    scene = new BABYLON.Scene(engine);
+    scene.clearColor = new BABYLON.Color4(0.9, 0.9, 0.9, 1);
+
+    camera = new BABYLON.ArcRotateCamera("cam", -Math.PI/2, Math.PI/4, 25, new BABYLON.Vector3(0, 2, 0), scene);
+    camera.attachControl(canvas, true);
+
+    new BABYLON.HemisphericLight("light", new BABYLON.Vector3(0, 1, 0), scene);
+
+    const ground = BABYLON.MeshBuilder.CreateGround("ground", {width: 60, height: 60}, scene);
+    ground.material = new BABYLON.StandardMaterial("gMat", scene);
+    ground.material.diffuseColor = new BABYLON.Color3(1, 1, 1);
+
+    guidePlane = BABYLON.MeshBuilder.CreatePlane("guide", {size: 15}, scene);
+    guidePlane.rotation.x = Math.PI/2;
+    guidePlane.position.y = 0.0001; 
+    guidePlane.isVisible = false;
+    guidePlane.material = new BABYLON.StandardMaterial("guideMat", scene);
+    guidePlane.material.alpha = 0.4;
+
+    gizmoManager = new BABYLON.GizmoManager(scene);
+
+    // Robot Body
+    const body = BABYLON.MeshBuilder.CreateBox("body", {width: 1.4, height: 16, depth: 1.4}, scene);
+    body.position.y = 8;
+    body.material = new BABYLON.StandardMaterial("bm", scene);
+    body.material.diffuseColor = new BABYLON.Color3(0.2, 0.2, 0.2);
+
+    const shRoot = new BABYLON.TransformNode("shRoot");
+    const shPivot = new BABYLON.TransformNode("shPivot");
+    shPivot.parent = shRoot; shPivot.position.x = 0.7;
+
+    const armMat = new BABYLON.StandardMaterial("armMat", scene);
+    armMat.diffuseColor = new BABYLON.Color3(0.1, 0.4, 0.8);
+    armMat.alpha = 0.5;
+
+    const arm1 = BABYLON.MeshBuilder.CreateBox("arm1", {width: 0.4, height: L1, depth: 0.4}, scene);
+    arm1.position.y = L1/2; arm1.parent = shPivot;
+    arm1.material = armMat;
+
+    const elPivot = new BABYLON.TransformNode("elPivot");
+    elPivot.parent = shPivot; elPivot.position.y = L1;
+
+    const arm2Mat = new BABYLON.StandardMaterial("arm2Mat", scene);
+    arm2Mat.diffuseColor = new BABYLON.Color3(0.8, 0.5, 0.2);
+    arm2Mat.alpha = 0.5;
+
+    const arm2 = BABYLON.MeshBuilder.CreateBox("arm2", {width: 0.3, height: L2, depth: 0.3}, scene);
+    arm2.position.y = L2/2; arm2.parent = elPivot;
+    arm2.material = arm2Mat;
+
+    hand = new BABYLON.TransformNode("handNode");
+    const cone = BABYLON.MeshBuilder.CreateCylinder("cone", {diameterTop: 0.4, diameterBottom: 0, height: CONE_H}, scene);
+    cone.parent = hand;
+    cone.position.y = -CONE_H/2; 
+    const coneMat = new BABYLON.StandardMaterial("coneMat", scene);
+    coneMat.diffuseColor = BABYLON.Color3.Red();
+    coneMat.alpha = 0.5;
+    cone.material = coneMat;
+
+    let projLine = BABYLON.MeshBuilder.CreateLines("proj", {points: [new BABYLON.Vector3(0,0,0), new BABYLON.Vector3(0,1,0)], updatable: true}, scene);
+    projLine.color = new BABYLON.Color3(0,0,0);
+
+    targetPos = new BABYLON.Vector3(5, 4, 5);
+
+    scene.onPointerMove = () => {
+        if (!writingMode || playing) return;
+        const pick = scene.pick(scene.pointerX, scene.pointerY, (m) => m === ground);
+        if(pick.hit) {
+            targetPos.x = pick.pickedPoint.x;
+            targetPos.z = pick.pickedPoint.z;
+        }
+    };
+    scene.onPointerDown = () => { if(writingMode) isMouseDown = true; };
+    scene.onPointerUp = () => { isMouseDown = false; currentStroke = []; };
+
+    scene.onBeforeRenderObservable.add(() => {
+        shRoot.position.y = shoulderHeight;
+
+        if (playing && !paused) {
+            if (playbackIndex < logData.length) {
+                const f = logData[playbackIndex];
+                targetPos.set(f.x, f.y, f.z);
+                shoulderHeight = f.sh;
+                playbackIsDrawing = f.dr;
+                playbackIndex++;
+                updateUIPlayback();
+            } else { playing = false; }
+        }
+
+        if (!playing) {
+            if (!writingMode) targetPos.y = 4.0; 
+            else targetPos.y = isMouseDown ? CONE_H : (CONE_H + 0.3);
+        }
+        
+        const s = playing ? 1.0 : 0.25;
+        hand.position.x += (targetPos.x - hand.position.x) * s;
+        hand.position.y += (targetPos.y - hand.position.y) * s;
+        hand.position.z += (targetPos.z - hand.position.z) * s;
+
+        const T = hand.position;
+        const tipY = T.y - CONE_H;
+        const isDrawingNow = playing ? playbackIsDrawing : (tipY < 0.12 && isMouseDown);
+
+        if (isDrawingNow) {
+            projLine.isVisible = false;
+            const last = currentStroke[currentStroke.length - 1];
+            const currentTipPos = new BABYLON.Vector3(T.x, 0.001, T.z);
+            if (!last || BABYLON.Vector3.Distance(last, currentTipPos) > 0.05) {
+                currentStroke.push(currentTipPos);
+                if (currentStroke.length > 1) {
+                    const line = BABYLON.MeshBuilder.CreateLines("l", {points: currentStroke}, scene);
+                    line.color = new BABYLON.Color3(0,0,0);
+                    line.material.zOffset = -5; 
+                    allLines.push(line);
+                }
+            }
+        } else {
+            currentStroke = [];
+            projLine.isVisible = (writingMode || playing);
+            const pArr = [new BABYLON.Vector3(T.x, tipY, T.z), new BABYLON.Vector3(T.x, 0, T.z)];
+            projLine = BABYLON.MeshBuilder.CreateLines("proj", {points: pArr, instance: projLine});
+        }
+
+        const B = shPivot.absolutePosition;
+        const dx = T.x - B.x, dz = T.z - B.z;
+        shPivot.rotation.y = Math.atan2(dx, dz);
+        const r = Math.sqrt(dx*dx + dz*dz), h = T.y - B.y;
+        const dSq = r*r + h*h;
+        let cos2 = BABYLON.Scalar.Clamp((dSq - L1*L1 - L2*L2) / (2 * L1 * L2), -1, 1);
+        const ang2 = Math.acos(cos2);
+        const k1 = L1 + L2 * Math.cos(ang2), k2 = L2 * Math.sin(ang2);
+        const ang1 = Math.atan2(h, r) - Math.atan2(k2, k1);
+        shPivot.rotation.x = -ang1 + Math.PI/2;
+        elPivot.rotation.x = -ang2;
+
+        if(writingMode && isMouseDown && !playing) {
+            logData.push({ x: T.x, y: T.y, z: T.z, sh: shoulderHeight, dr: isDrawingNow });
+        }
+    });
+};
+
+createScene();
+
+const updateUIPlayback = () => {
+    document.getElementById("logSlider").value = playbackIndex;
+    document.getElementById("frameVal").innerText = playbackIndex;
+};
+
+// --- HANDLERS ---
+window.addEventListener("keydown", (e) => {
+    if (e.code === "Space") {
+        writingMode = !writingMode;
+        const box = document.getElementById("status-box");
+        if (writingMode) {
+            camera.detachControl(canvas);
+            box.innerText = "CONTROLLO ROBOT"; box.className = "writing-active";
+            playing = false;
+        } else {
+            camera.attachControl(canvas, true);
+            box.innerText = "TELECAMERA LIBERA"; box.className = "writing-inactive";
+            isMouseDown = false;
+        }
+    }
+});
+
+document.getElementById("btnPlay").onclick = () => { playing = true; paused = false; };
+document.getElementById("btnPause").onclick = () => { paused = !paused; };
+document.getElementById("btnRewind").onclick = () => { playbackIndex = 0; updateUIPlayback(); currentStroke = []; };
+
+document.getElementById("logSlider").oninput = (e) => {
+    playing = true; paused = true;
+    playbackIndex = parseInt(e.target.value);
+    const f = logData[playbackIndex];
+    if (f) { targetPos.set(f.x, f.y, f.z); shoulderHeight = f.sh; playbackIsDrawing = f.dr; updateUIPlayback(); }
+};
+
+document.getElementById("btnClearLog").onclick = () => {
+    if(confirm("Cancellare tutti i dati registrati (Log)?")) {
+        logData = []; playbackIndex = 0; updateUIPlayback();
+        document.getElementById("logSlider").disabled = true;
+        document.getElementById("btnPlay").disabled = true;
+        document.getElementById("btnPause").disabled = true;
+        document.getElementById("btnRewind").disabled = true;
+        document.getElementById("totalFrames").innerText = "0";
+    }
+};
+
+document.getElementById("btnClearDrawing").onclick = () => {
+    if(confirm("Pulire il foglio dai disegni?")) {
+        allLines.forEach(l => l.dispose()); allLines = []; currentStroke = [];
+    }
+};
+
+document.getElementById("btnLoad").onclick = () => document.getElementById("fileInput").click();
+document.getElementById("fileInput").onchange = (e) => {
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+        logData = JSON.parse(ev.target.result);
+        playbackIndex = 0;
+        const slider = document.getElementById("logSlider");
+        slider.disabled = false; slider.max = logData.length - 1;
+        document.getElementById("totalFrames").innerText = logData.length;
+        document.getElementById("btnPlay").disabled = false;
+        document.getElementById("btnPause").disabled = false;
+        document.getElementById("btnRewind").disabled = false;
+    };
+    reader.readAsText(e.target.files[0]);
+};
+
+document.getElementById("btnSave").onclick = () => {
+    if(logData.length === 0) return alert("Nessun dato nel log.");
+    const blob = new Blob([JSON.stringify(logData)], {type: "application/json"});
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob); a.download = "robot_log.json"; a.click();
+};
+
+document.getElementById("btnImg").onclick = () => document.getElementById("imgInput").click();
+document.getElementById("imgInput").onchange = (e) => {
+    const reader = new FileReader();
+    reader.onload = (ev) => { guidePlane.material.diffuseTexture = new BABYLON.Texture(ev.target.result, scene); guidePlane.isVisible = true; };
+    reader.readAsDataURL(e.target.files[0]);
+};
+
+document.getElementById("btnImgEdit").onclick = () => {
+    gizmoManager.boundingBoxGizmoEnabled = !gizmoManager.boundingBoxGizmoEnabled;
+    gizmoManager.positionGizmoEnabled = gizmoManager.boundingBoxGizmoEnabled;
+    if(gizmoManager.boundingBoxGizmoEnabled) gizmoManager.attachToMesh(guidePlane);
+    else gizmoManager.attachToMesh(null);
+};
+
+document.getElementById("shoulderSlider").oninput = (e) => {
+    shoulderHeight = parseFloat(e.target.value);
+    document.getElementById("hVal").innerText = shoulderHeight.toFixed(1);
+};
+
+engine.runRenderLoop(() => scene.render());
+window.addEventListener("resize", () => engine.resize());
+</script>
+</body>
+</html>
