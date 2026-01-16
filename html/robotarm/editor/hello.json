@@ -1,0 +1,118 @@
+{
+    "config": {
+        "generator": "RobotBuilder_V31"
+    },
+    "mapping": {
+        "Braccio_0_X": {
+            "armId": "Braccio_0",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_0_Y": {
+            "armId": "Braccio_0",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_0_Z": {
+            "armId": "Braccio_0",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_1_X": {
+            "armId": "Braccio_1",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 90
+        },
+        "Braccio_1_Y": {
+            "armId": "Braccio_1",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 90
+        },
+        "Braccio_1_Z": {
+            "armId": "Braccio_1",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 90
+        },
+        "Braccio_2_X": {
+            "armId": "Braccio_2",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_2_Y": {
+            "armId": "Braccio_2",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 90
+        },
+        "Braccio_2_Z": {
+            "armId": "Braccio_2",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 90
+        },
+        "Braccio_3_X": {
+            "armId": "Braccio_3",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_3_Y": {
+            "armId": "Braccio_3",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_3_Z": {
+            "armId": "Braccio_3",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_4_X": {
+            "armId": "Braccio_4",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_4_Y": {
+            "armId": "Braccio_4",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        },
+        "Braccio_4_Z": {
+            "armId": "Braccio_4",
+            "axis": "rotX",
+            "sign": 1,
+            "offset": 0
+        }
+    },
+    "frames": [
+        {
+            "angles": {
+                "Braccio_0_X": 0,
+                "Braccio_0_Y": 0,
+                "Braccio_0_Z": 0,
+                "Braccio_1_X": 0,
+                "Braccio_1_Y": 0,
+                "Braccio_1_Z": -1.5707963267948966,
+                "Braccio_2_X": 0,
+                "Braccio_2_Y": -0.5061454830783556,
+                "Braccio_2_Z": -1.5707963267948966,
+                "Braccio_3_X": 0.767944870877505,
+                "Braccio_3_Y": 0,
+                "Braccio_3_Z": 0,
+                "Braccio_4_X": -1.5707963267948966,
+                "Braccio_4_Y": 0,
+                "Braccio_4_Z": 0
+            }
+        }
+    ]
+}
