@@ -1,4 +1,4 @@
 Test pages
 
-- [Robot arm simulator](https://jumpjack.github.io/automata/html/ai_studio_code-robot-arm-002.html)
-- Robot arm builder (to do)
+- [Robot arm recorder](https://jumpjack.github.io/automata/html/robotarm/recorder/index.html)
+- [Robot arm editor](https://jumpjack.github.io/automata/html/robotarm/editor/arm-editor-006.html)
