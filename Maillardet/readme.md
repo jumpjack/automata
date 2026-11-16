@@ -73,3 +73,4 @@ The book can be purchased here: http://www.figuresinthefourthdimension.com/html/
 - [Demonstration of the Seven Renderings of the Maillardet Automaton](https://www.youtube.com/watch?v=Tv5U_fEvrMA) (high detail on elbow)
 - [The Living Automaton](https://www.youtube.com/watch?v=FK6zCvzG3oQ) (high res)
 - [Making Marvels—The Draughtsman-Writer](https://www.youtube.com/watch?v=7ZiH7oF3OMM) (high detail albow)
+- [Movimento spalla](https://youtu.be/Nx-aU7Lp2-4?t=135)
