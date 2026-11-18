@@ -74,3 +74,6 @@ The book can be purchased here: http://www.figuresinthefourthdimension.com/html/
 - [The Living Automaton](https://www.youtube.com/watch?v=FK6zCvzG3oQ) (high res)
 - [Making Marvels—The Draughtsman-Writer](https://www.youtube.com/watch?v=7ZiH7oF3OMM) (high detail albow)
 - [Movimento spalla](https://youtu.be/Nx-aU7Lp2-4?t=135)
+- [Giunto avambraccio - 1](https://youtu.be/7ZiH7oF3OMM?t=46)
+- [Giunto avambraccio - 2](https://youtu.be/7ZiH7oF3OMM?t=55)
+- [Spalla asse X + spalla asse Z](https://youtu.be/zpJEP6O6-Ho?t=503)
